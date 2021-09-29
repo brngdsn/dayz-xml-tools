@@ -1,5 +1,8 @@
 // DEPS - BEGIN ----------------------------------------------------------------------------
 
+const fs = require('fs')
+const xml2js = require('xml2js')
+
 const dayzXmlFilesPath = [
     `C:`, `Program Files (x86)`, `Steam`, `steamapps`, `common`,
     `DayZ`, `Missions`, `DayZCommunityOfflineMode.ChernarusPlus`
