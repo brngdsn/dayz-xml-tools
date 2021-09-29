@@ -1,6 +1,6 @@
 {
   "name": "dayz-xml-tools",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "javascript functions to make modding with xml easier and more efficient",
   "main": "src/index.js",
   "scripts": {
